@@ -1,10 +1,12 @@
 ### 공사중...🔨
+<div align="center">
+  <h2>🛠 Stacks 🛠 </h2>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></br>
 
-<h2 align="center"> 🛠 Stacks 🛠</p>
-<p align="center">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-</p>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wookieOH&show_icons=true&theme=noctis_minimus)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wookieOH&layout=compact&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 <!--
 **wookieOH/wookieOH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
